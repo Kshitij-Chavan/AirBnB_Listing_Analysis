@@ -1,9 +1,8 @@
-# 📊 Project Title: [Your Project Name Here]
+# 📊 AirBnB Listing Analysis:
 
-### 🧠 Tagline / One-Liner
-*A short creative summary of what your project does or discovers.*
+### 🧠 Uncovering pricing patterns, neighborhood performance, and host behavior using Python and Pandas
+*A data-driven exploration of Airbnb listings to help hosts and analysts understand what drives price, bookings, and occupancy in Paris city.*
 
-> Example: “Uncovering pricing patterns and booking trends in Airbnb listings using Python and Power BI.”
 
 ---
 
